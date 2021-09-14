@@ -1,6 +1,6 @@
 # Home page
 
-## Welcome to the WEM documentation
+## Welcome to the WEM documentation.
 
 
 
